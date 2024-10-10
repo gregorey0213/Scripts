@@ -1,4 +1,4 @@
-﻿# Скрипт не работает для xls-файлов.
+﻿# Script don't work with xml files
 
 # Get the current user
 $currentUsername = "Имя пользователя, на которого нужно заменить"
